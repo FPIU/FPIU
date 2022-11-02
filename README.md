@@ -13,3 +13,5 @@ A little more about me:
 - 📫 How to reach me: Соmfу#0860 (Discord)
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I've never seen snow before.
+
+I have a public repository where I put everything I've learned about spigot development so far. Don't expect much!
