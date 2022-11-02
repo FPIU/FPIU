@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I am a 16 y.o nonbinary who's goal is to learn java development to make their own server in the future.
+I am a 16 y.o nonbinary who's goal is to learn java development to become extra epic.
 
 A little more about me:
 
