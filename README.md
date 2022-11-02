@@ -14,4 +14,4 @@ A little more about me:
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I've never seen snow before.
 
-I have a public repository where I put everything I've learned about spigot development so far. Don't expect much!
+I have a public repository where I posted everything I've learned about spigot development so far. Don't expect much!
